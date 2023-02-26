@@ -1,0 +1,6 @@
+framework module Pods_Screenshot_Analysis {
+  umbrella header "Pods-Screenshot Analysis-umbrella.h"
+
+  export *
+  module * { export * }
+}
